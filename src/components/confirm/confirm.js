@@ -4,8 +4,9 @@ import AppBar from "@material-ui/core/AppBar";
 
 const Test = () => (
   <AppBar>
-    <Typography variant='h1'>third</Typography>Q{" "}
-  </AppBar>
+
+    <Typography variant='h1'>after reset</Typography>
+
 );
 
 export default Test;
