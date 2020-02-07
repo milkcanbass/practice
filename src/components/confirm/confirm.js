@@ -4,7 +4,11 @@ import AppBar from "@material-ui/core/AppBar";
 
 const Test = () => (
   <AppBar>
-    <Typography variant='h1'>third</Typography>Q{" "}
+<<<<<<< HEAD
+    <Typography variant='h1'>foth</Typography>
+=======
+    <Typography variant='h1'>first one</Typography>
+>>>>>>> parent of 96392eb... second one
   </AppBar>
 );
 
