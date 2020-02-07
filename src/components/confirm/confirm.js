@@ -4,8 +4,9 @@ import AppBar from "@material-ui/core/AppBar";
 
 const Test = () => (
   <AppBar>
+
     <Typography variant='h1'>after reset</Typography>
-  </AppBar>
+
 );
 
 export default Test;
